@@ -22,11 +22,13 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGUzeG54aXM0NGhiY2d1ZGtzMHIza2lxbHlvcGFrbjJmOHVrMHR0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/98kcZtideBuSDrzDcR/giphy.gif" width="300" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
 I am a middle web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
