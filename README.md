@@ -38,7 +38,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
-- :zap: В моё свободное время я предпочитаю безделие.
+- :bed: В моё свободное время я предпочитаю безделие.
 
 :mailbox:Как найти меня: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
