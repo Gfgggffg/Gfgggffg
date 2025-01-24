@@ -42,6 +42,7 @@ I am a middle web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
 
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
