@@ -40,7 +40,7 @@
 
 - :bed: В моё свободное время я предпочитаю безделие.
 
-:mailbox:Как найти меня: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+:mailbox:Как найти меня: Никак.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gfgggffg)](https://git.io/streak-stats)
 
