@@ -47,7 +47,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gfgggffg)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📔: Blog Posts :
+### 📔 Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
